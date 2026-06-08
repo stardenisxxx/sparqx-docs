@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# Obsidian — локальное состояние, не версионируем
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/cache.json
+.obsidian/plugins/*/data.json
+
+# Корзина Obsidian
+.trash/
